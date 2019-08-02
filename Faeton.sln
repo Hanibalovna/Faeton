@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faeton", "Faeton\Faeton.csproj", "{E94D8928-E3BC-4ACC-A35C-CB3CB4D192AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db", "..\Db\Db.csproj", "{A049E8F6-67FE-4C7A-8967-52AD3E0E58D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94D8928-E3BC-4ACC-A35C-CB3CB4D192AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94D8928-E3BC-4ACC-A35C-CB3CB4D192AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94D8928-E3BC-4ACC-A35C-CB3CB4D192AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94D8928-E3BC-4ACC-A35C-CB3CB4D192AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A049E8F6-67FE-4C7A-8967-52AD3E0E58D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A049E8F6-67FE-4C7A-8967-52AD3E0E58D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A049E8F6-67FE-4C7A-8967-52AD3E0E58D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A049E8F6-67FE-4C7A-8967-52AD3E0E58D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A4E2D0-0643-465A-8F1D-ABB917BDD8A7}
+	EndGlobalSection
+EndGlobal
